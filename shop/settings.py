@@ -118,3 +118,9 @@ CART_SESSION_ID = 'cart'
 
 # Default auto field type for models
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+# Đường dẫn đến thư mục static
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static'),
+]
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
