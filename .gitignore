@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6d94ac5d309a7e1d7ad6d3350c65b13c8c21f342
 # C extensions
 *.so
 
@@ -173,6 +176,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 =======
 # Django stuff:
 db.sqlite3
@@ -185,3 +189,5 @@ staticfiles/
 venv/
  
 >>>>>>> 27b2ea7 (Initial commit)
+=======
+>>>>>>> 6d94ac5d309a7e1d7ad6d3350c65b13c8c21f342
