@@ -6,3 +6,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'shop.settings')
 
 # Get the WSGI application
 app = get_wsgi_application()
+print("Tôi vừa cập nhật từ máy tính")
